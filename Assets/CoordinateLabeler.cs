@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 using TMPro;
+using UnityEngine;
 
 [ExecuteAlways]
+[RequireComponent(typeof(TextMeshPro))]
 public class CoordinateLabeler : MonoBehaviour
 {
     [SerializeField] Color defaultColor = Color.black;
@@ -32,9 +31,9 @@ public class CoordinateLabeler : MonoBehaviour
         }
 
         ToggleLabels();
-        ColorCoordinates();
+        ChangeColour();
     }
-    void ColorCoordinates()
+    void ChangeColour()
     {
         if (waypoint.IsPlaceable)
         {

@@ -7,7 +7,6 @@ using TMPro;
 public class Bank : MonoBehaviour
 {
     [SerializeField] int startingBalance = 150;
-
     [SerializeField] int currentBalance;
     public int CurrentBalance { get { return currentBalance; } }
 
@@ -30,6 +29,7 @@ public class Bank : MonoBehaviour
 
         if (currentBalance < 0)
         {
+            //Lose the game...
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
         UpdateDisplay();
