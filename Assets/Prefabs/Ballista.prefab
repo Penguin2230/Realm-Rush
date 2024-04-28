@@ -62,6 +62,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b60adc09a9972cf4a917f4544a9803da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cost: 75
+  buildDelay: 1
 --- !u!1 &5185328313817751037
 GameObject:
   m_ObjectHideFlags: 0
