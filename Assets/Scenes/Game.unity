@@ -1682,6 +1682,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 6202809648840416726, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7426044617628858097, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Name
       value: (14, 3)
@@ -11202,6 +11206,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 6202809648840416726, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7426044617628858097, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Name
       value: (14, 5)
@@ -13431,6 +13439,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 6202809648840416726, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7426044617628858097, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Name
       value: (14, 6)
@@ -13594,6 +13606,10 @@ PrefabInstance:
     - target: {fileID: 953139172568204366, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6202809648840416726, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
+      propertyPath: isPlaceable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7426044617628858097, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Name
@@ -17320,6 +17336,10 @@ PrefabInstance:
     - target: {fileID: 953139172568204366, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6202809648840416726, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
+      propertyPath: isPlaceable
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7426044617628858097, guid: e8a65c297dda3a84faf1f3aa57e0583b, type: 3}
       propertyPath: m_Name
